@@ -104,15 +104,20 @@ volumes:
 
 ```
 
-
+##### **Лог запуска контейнеров без мускуль экспортёра**
 ![Лог запуска compose без mysql exporter](/images/log_compose_without_ms_exporter.png)
 
+##### **Лог запуска мускуль экспортёра**
 ![Лог запуска mysql exporter](/images/log_with_ms_exporter.png)
 
+##### **Статус node_exporter**
 ![Статус nodeexporter](/images/log_node_exp.png)
 
+##### **Кадвизор дашборд**
 ![Cadvisor's Dashboard](/images/grafana_cadvisor.png)
 
+##### **Мускуль дашборд**
 ![MYSQL's Dashboard](/images/grafana_ms.png)
 
+##### **Node_exporter дашборд**
 ![Nodeexporter's Dashboard](/images/grafana_nose_exp.png)
