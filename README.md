@@ -109,10 +109,10 @@ volumes:
 
 ![Лог запуска mysql exporter](/images/log_with_ms_exporter.png)
 
-![Статус node_exporter](/images/log_node_exp.png)
+![Статус nodeexporter](/images/log_node_exp.png)
 
 ![Cadvisor's Dashboard](/images/grafana_cadvisor.png)
 
 ![MYSQL's Dashboard](/images/grafana_ms.png)
 
-![Node_exporter's Dashboard](/images/grafana_nose_exp.png)
+![Nodeexporter's Dashboard](/images/grafana_nose_exp.png)
