@@ -106,8 +106,13 @@ volumes:
 
 
 ![Лог запуска compose без mysql exporter](/images/log_compose_without_ms_exporter.png)
+
 ![Лог запуска mysql exporter](/images/log_with_ms_exporter.png)
+
 ![Статус node_exporter](/images/log_node_exp.png)
+
 ![Cadvisor's Dashboard](/images/grafana_cadvisor.png)
+
 ![MYSQL's Dashboard](/images/grafana_ms.png)
+
 ![Node_exporter's Dashboard](/images/grafana_nose_exp.png)
